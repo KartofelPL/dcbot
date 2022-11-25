@@ -1,0 +1,14 @@
+{
+  "name": "superbotdc",
+  "version": "0.0.1",
+  "description": "byle co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pyra",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
